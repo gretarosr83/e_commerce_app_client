@@ -1,0 +1,2 @@
+# reactapp_nginxconfig file will be used to copy to it to the nginx server
+# to configure the nginx server to deploy the project
