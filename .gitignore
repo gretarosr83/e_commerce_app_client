@@ -5,8 +5,7 @@
 /dist
 /build
 
-
 #files
-package-lock.json
+# package-lock.json
 
 .DS_store
